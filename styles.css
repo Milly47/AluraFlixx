@@ -1,7 +1,7 @@
 body{
    display: inline-block;
-    color: aliceblue;
-    background: black;
+    color: black;
+    background: darkgreen;
     margin: 60,px;
     text-align: right;
 }
